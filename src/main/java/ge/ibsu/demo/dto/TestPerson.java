@@ -1,4 +1,4 @@
-package ge.ibsu.demo.dro;
+package ge.ibsu.demo.dto;
 
 public class TestPerson {
 

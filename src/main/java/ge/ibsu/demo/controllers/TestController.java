@@ -1,6 +1,6 @@
 package ge.ibsu.demo.controllers;
 
-import ge.ibsu.demo.dro.TestPerson;
+import ge.ibsu.demo.dto.TestPerson;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
